@@ -1,0 +1,17 @@
+2017-03-12 00:11:02.883 Client IP: 127.0.0.1    request is    www.mozilla.org. IN A 104.16.41.2
+2017-03-12 00:11:02.998 Client IP: 127.0.0.1    request is    duckduckgo.com. IN A 184.72.106.52
+2017-03-12 00:11:03.095 Client IP: 127.0.0.1    request is    ac.duckduckgo.com. IN A 184.72.115.86
+2017-03-12 00:11:05.080 Client IP: 127.0.0.1    request is    addons.mozilla.org. IN A 54.69.210.212
+2017-03-12 00:11:06.560 Client IP: 127.0.0.1    request is    icons.duckduckgo.com. IN A 23.21.193.210
+2017-03-12 00:11:06.931 Client IP: 127.0.0.1    request is    images.duckduckgo.com. IN A 23.21.193.210
+2017-03-12 00:11:07.874 Client IP: 127.0.0.1    request is    safebrowsing.google.com. IN A 172.217.11.14
+2017-03-12 00:11:08.043 Client IP: 127.0.0.1    request is    clients1.google.com. IN A 172.217.11.14
+2017-03-12 00:11:08.403 Client IP: 127.0.0.1    request is    safebrowsing-cache.google.com. IN A 172.217.4.206
+2017-03-12 00:11:08.654 Client IP: 127.0.0.1    request is    safebrowsing-cache.google.com. IN A 172.217.4.206
+2017-03-12 00:11:08.763 Client IP: 127.0.0.1    request is    safebrowsing-cache.google.com. IN A 172.217.4.206
+2017-03-12 00:11:08.863 Client IP: 127.0.0.1    request is    safebrowsing-cache.google.com. IN A 172.217.4.206
+2017-03-12 00:11:09.066 Client IP: 127.0.0.1    request is    safebrowsing-cache.google.com. IN A 172.217.4.206
+2017-03-12 00:11:09.162 Client IP: 127.0.0.1    request is    safebrowsing-cache.google.com. IN A 172.217.4.206
+2017-03-12 00:11:09.423 Client IP: 127.0.0.1    request is    safebrowsing-cache.google.com. IN A 172.217.4.206
+2017-03-12 00:11:09.631 Client IP: 127.0.0.1    request is    safebrowsing-cache.google.com. IN A 172.217.4.206
+2017-03-12 00:11:09.839 Client IP: 127.0.0.1    request is    safebrowsing-cache.google.com. IN A 172.217.4.206
